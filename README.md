@@ -13,3 +13,15 @@
 + 이 기능을 문자나 카톡으로 답장을 오게 하고싶은데 어떻게 하는지 알려주세요!!!
 
 + 라즈베리 파이등으로 이 기능을 지속적으로 사용가능 한가요? 그렇다면 방법 좀 알려주세요!
+
+
+
+도움받은곳...
+
+따라한 유튜브 https://www.youtube.com/watch?v=xb2o0mzw4l4&t=60s
+
+유튜버분의 깃헙 https://github.com/kairess/lol-watcher
+
+라이엇 개발자 포털 https://developer.riotgames.com/
+
+Spectator API https://riot-watcher.readthedocs.io/en/latest/riotwatcher/SpectatorApiV4.html#riotwatcher._apis.league_of_legends.SpectatorApiV4
